@@ -125,7 +125,7 @@ Always evolving.
 
 <div align="center">
 
-`VS CODE` • `GIT` • `GITHUB` • `POSTMAN` • `LINUX`
+`VS CODE` • `GIT` • `GITHUB` • `LINUX`
 
 </div>
 
