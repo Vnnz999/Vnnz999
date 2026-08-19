@@ -137,7 +137,7 @@ Atualmente estou evoluindo minha base em desenvolvimento de software, APIs, banc
 
 </div>
 
-> **Nota:** substitua `SEU_PROJETO_1` e `SEU_PROJETO_2` pelos nomes reais dos seus repositórios.
+  > **Nota:** substitua `Controle-de-Gasto` e `Backend` pelos nomes reais dos seus repositórios.
 
 ---
 
