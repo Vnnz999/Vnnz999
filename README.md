@@ -94,13 +94,7 @@ Atualmente estou evoluindo minha base em desenvolvimento de software, APIs, banc
 **GitHub**
 
 </td>
-<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=postman" width="55"/>
-
-**Postman**
-
-</td>
 <td align="center" width="150">
 
 <img src="https://skillicons.dev/icons?i=linux" width="55"/>
