@@ -73,7 +73,7 @@ Always evolving.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,js,html,css,git,github,vscode,postman,linux" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,js,html,css,git,github,vscode,linux" alt="Tech Stack"/>
 
 </div>
 
@@ -111,11 +111,7 @@ Always evolving.
 <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
 </a>
 
-   
 
-<a href="https://www.postman.com/">
-<img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman"/>
-</a>
 
    
 
