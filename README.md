@@ -223,31 +223,26 @@ SYSTEM STATUS: EVOLVING...
 <div align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Vnnz999&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github&cache_seconds=86400"
-alt="GitHub Stats"
+  src="./profile/stats.svg"
+  width="49%"
+  alt="GitHub Stats"
 />
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnnz999&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&cache_seconds=86400"
-alt="Top Languages"
+  src="./profile/top-langs.svg"
+  width="49%"
+  alt="Top Languages"
 />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img
-src="https://streak-stats.demolab.com?user=Vnnz999&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=7A8793"
-width="80%"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Vnnz999&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=7A8793"
+  width="80%"
+  alt="GitHub Streak"
 />
 
 </div>
-
 ---
 
 # `> ACTIVITY_GRAPH`
