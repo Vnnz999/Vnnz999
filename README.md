@@ -223,26 +223,19 @@ SYSTEM STATUS: EVOLVING...
 <div align="center">
 
 <img
-  src="./profile/stats.svg"
-  width="49%"
-  alt="GitHub Stats"
+src="./profile/stats.svg"
+width="49%"
+alt="GitHub Stats"
 />
 
 <img
-  src="./profile/top-langs.svg"
-  width="49%"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Vnnz999&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=7A8793"
-  width="80%"
-  alt="GitHub Streak"
+src="./profile/top-langs.svg"
+width="49%"
+alt="Top Languages"
 />
 
 </div>
+
 ---
 
 # `> ACTIVITY_GRAPH`
