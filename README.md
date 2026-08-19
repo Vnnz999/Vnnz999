@@ -147,7 +147,7 @@ Projeto voltado para prática de desenvolvimento,
 lógica de programação, banco de dados e aplicações web.
 </p>
 
-<a href="https://github.com/Vnnz999/Controle-de-Gasto">
+<a href="https://github.com/Vnnz999/controle-de-gastos.git">
 <img
   src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"
   alt="Ver Controle de Gastos"
@@ -165,7 +165,7 @@ Projeto focado em estudos de backend,
 estrutura de aplicações e desenvolvimento de APIs.
 </p>
 
-<a href="https://github.com/Vnnz999/Backend">
+<a href="https://github.com/Vnnz999/backend1.git">
 <img
   src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
   alt="Ver Backend"
